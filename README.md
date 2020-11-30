@@ -1,0 +1,2 @@
+# VaMUS-Projeto-Hackathon-
+O VaMUS é um aplicativo que converge as instituições culturais e seus acervos na palma da mão, ao mesmo tempo que garante autonomia para atualização e submissão dos dados de forma descentralizada. Ele promove a digitalização das instituições e seus acervos, integrando dados de softwares livres nacionais, sendo uma solução simples e economicamente viável para democratização do acesso à cultura, memória e ao conhecimento.
