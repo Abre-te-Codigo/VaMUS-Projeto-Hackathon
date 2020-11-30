@@ -4,7 +4,7 @@ O VaMUS é um aplicativo que converge as instituições culturais e seus acervos
 ## Link solução
 - [https://dashboard.ionicframework.com/preview/1a3e6b3a/xvuzhlsxpd](https://dashboard.ionicframework.com/preview/1a3e6b3a/xvuzhlsxpd)
 - [https://github.com/vnmedeiros/VaMus-Tainacan](https://github.com/vnmedeiros/VaMus-Tainacan)
-- (https://github.com/mateuswetah/VaMUS)[https://github.com/mateuswetah/VaMUS]
+- [https://github.com/mateuswetah/VaMUS](https://github.com/mateuswetah/VaMUS)
 
 ## Vídeos 
 - [https://youtu.be/GpbcdyXaFM0]https://youtu.be/GpbcdyXaFM0()
