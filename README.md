@@ -7,5 +7,5 @@ O VaMUS é um aplicativo que converge as instituições culturais e seus acervos
 - [https://github.com/mateuswetah/VaMUS](https://github.com/mateuswetah/VaMUS)
 
 ## Vídeos 
-- [https://youtu.be/GpbcdyXaFM0](https://youtu.be/GpbcdyXaFM0)
-- [https://youtu.be/bKNbkD3q93A](https://youtu.be/bKNbkD3q93A)
+- Pitch [https://youtu.be/bKNbkD3q93A](https://youtu.be/bKNbkD3q93A)
+- Demo [https://youtu.be/GpbcdyXaFM0](https://youtu.be/GpbcdyXaFM0)
